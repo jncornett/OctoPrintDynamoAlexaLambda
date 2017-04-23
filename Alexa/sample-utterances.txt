@@ -1,0 +1,7 @@
+GetPrintProgressIntent what is the print progress
+GetPrintProgressIntent tell me the print progress
+GetPrintProgressIntent what is the percentage
+GetPrintStateIntent what is the status of my print
+GetPrintStateIntent what is the print status
+GetPrintStateIntent what is the printer doing
+GetPrintStateIntent tell me the print status
