@@ -1,0 +1,30 @@
+{
+  "name": "octoprint-dynamo-alexa-skill-handler",
+  "version": "1.0.0",
+  "description": "The Alexa skill handler for the OctoPrint-Dynamo plugin",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "aws-sdk": "^2.45.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jncornett/OctoPrintDynamoAlexaLambda.git"
+  },
+  "keywords": [
+    "octoprint",
+    "alexa",
+    "aws",
+    "lambda"
+  ],
+  "author": "Joel Cornett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jncornett/OctoPrintDynamoAlexaLambda/issues"
+  },
+  "homepage": "https://github.com/jncornett/OctoPrintDynamoAlexaLambda#readme"
+}

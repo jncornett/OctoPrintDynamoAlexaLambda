@@ -1,1 +1,3 @@
-- Add a `package.json` file
+- Add grunt
+- Add grunt task to create lambda-zip
+
